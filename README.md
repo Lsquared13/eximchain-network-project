@@ -23,3 +23,10 @@ The infrastructure for running the backbone of the main Eximchain network and al
 
 * [Terraform Infrastructure](https://github.com/Lsquared13/terraform-aws-eximchain-tx-executor)
 * [Software](https://github.com/Lsquared13/eximchain-transaction-executor)
+
+## DevOps Docs
+
+* [Main Network Deployment](https://github.com/Lsquared13/eximchain-notes-public/blob/master/devops/deployment.md)
+* [Main Network Health Check](https://github.com/Lsquared13/eximchain-notes-public/blob/master/devops/health-check.md)
+* [Main Network Node Removal](https://github.com/Lsquared13/eximchain-notes-public/blob/master/devops/node-removal.md)
+* [Dev Account Cleanup](https://github.com/Lsquared13/eximchain-notes-public/blob/master/devops/clean-dev.md)

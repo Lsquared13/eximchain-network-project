@@ -5,7 +5,7 @@ The infrastructure for running the backbone of the main Eximchain network and al
 * Uses [Terraform](https://www.terraform.io/) configurations to launch a blockchain network globally in any combination of AWS regions with a single `terraform apply`
 * Uses [Packer](http://packer.io/) to build AWS AMIs loaded with [quorum](https://github.com/jpmorganchase/quorum) derived blockchain software and scripts to run the necessary software and bootstrap the network
 * Adapted to run [Eximchain Network Software](https://github.com/Eximchain/go-ethereum) and used in [Terraform Cloud](https://www.terraform.io/docs/cloud/index.html) to run the backbone of the main Eximchain network
-* Uses additional software and [Terraform](https://www.terraform.io/) configurations for running individual nodes and trnasaction executors, which could serve individual requests from the public
+* Uses additional software and [Terraform](https://www.terraform.io/) configurations for running individual nodes and transaction executors, which could serve individual requests from the public
 * Includes associated DevOps procedures for maintaining and updating the network
 
 ## Repositories
